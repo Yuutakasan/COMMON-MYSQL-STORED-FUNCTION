@@ -1,45 +1,44 @@
 ## License
 MIT
-# 1. CMSF(COMMON-MYSQL-STORED-FUNCTION)�Ƃ�
+# 1. CMSF(COMMON-MYSQL-STORED-FUNCTION)とは
 
- CMSF - COMMON MYSQL STORED FUNCTION(PROCEDURE)��
- MYSQL���g���₷���֗��ɂ��邽�߂̔ėp�I�ȋ��ʊ֐��Q�̑��̂ł��B
-����Ε֗������ǂ܂��Ȃ��֐����������A�S���ÁX�Y�X�A
-�l�X�ȃv���W�F�N�g�ŋ��p�ł���ėp�I�ȃv���O�����c�[���̍쐬��ڎw���Ă��܂��B 
-
-
-# 2. �z�z����  
-
-  �{�\�t�g�E�F�A��LGPL v3�ɂČ��J���Ă��܂��B
-  �ڍׂ́uCOPYING.LESSER�v�t�@�C���܂���
-  �ȉ��̃y�[�W���Q�Ƃ��Ă��������B
-  http://www.gnu.org/licenses/lgpl-3.0-standalone.html
+ CMSF - COMMON MYSQL STORED FUNCTION(PROCEDURE)は
+ MYSQLを使いやすく便利にするための汎用的な共通関数群の総称です。
+あれば便利だけどまだない関数を実装し、全国津々浦々、
+様々なプロジェクトで共用できる汎用的なプログラムツールの作成を目指しています。 
 
 
-# 3. �Ɛ�  
+# 2. 配布条件  
 
-  ���̃\�t�g�E�F�A���g�p�������Ƃɂ���Đ����������Ȃ�
-  ��Q�E���Q�E�s����Ɋւ��Ă��A��؂̐ӔC�𕉂��܂���B
-  �e���̐ӔC�ɂ����Ă��g�p���������B
+  本ソフトウェアはMITライセンスにて公開しています。
+  頒布や利用に制限はありませんが、著作権表示および本許諾表示をソフトウェアのすべての複製または重要な部分に記載する事は必須になります。
+  以下のページを参照してください。
+  https://opensource.org/licenses/mit-license.php
 
 
-# 4. �o�O�񍐁E�T�|�[�g  
+# 3. 免責  
 
-  �o�O�񍐂͈ȉ��̃t�H�[������
-  �V�K�ŃX���b�h���쐬���āA
-  ���񍐂��������B
+  このソフトウェアを使用したことによって生じたいかなる
+  障害・損害・不具合等に関しても、一切の責任を負いません。
+  各自の責任においてご使用ください。
 
-  http://sourceforge.jp/forum/forum.php?forum_id=18350
+# 4. バグ報告・サポート  
 
-# 5. ������\�z  
+  バグ報告は以下のフォーラムに
+  新規でスレッドを作成して、
+  ご報告ください。
+
+  https://github.com/Yuutakasan/COMMON-MYSQL-STORED-FUNCTION/issues
+
+# 5. 動作環境構築  
 -----------------
 
-  ����A���L�̊��œ���m�F���s���Ă���܂��B
+  現状、下記の環境で動作確認を行っております。
 
-  �ECentOS release 5.3
-  �EMYSQL 5.0.67
+  ・CentOS release 5以降
 
-# 6. �X�V����  
+# 6. 更新履歴  
 
-  �E2009/07/12 Version 0.0.1 �����[�X
-  �E2016/04/03 Github�Ƀ��|�W�g�����ڍs
+  ・2009/07/12 Version 0.0.1 リリース
+  ・2016/04/03 Githubにリポジトリを移行
+  ・2020/01/06 更新再開
