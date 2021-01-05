@@ -30,13 +30,6 @@ MIT
 
   https://github.com/Yuutakasan/COMMON-MYSQL-STORED-FUNCTION/issues
 
-# 5. 動作環境構築  
------------------
-
-  現状、下記の環境で動作確認を行っております。
-
-  ・CentOS release 5以降
-
 # 6. 更新履歴  
 
   ・2009/07/12 Version 0.0.1 リリース
