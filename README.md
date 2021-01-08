@@ -31,7 +31,6 @@ MIT
   https://github.com/Yuutakasan/COMMON-MYSQL-STORED-FUNCTION/issues
 
 # 6. 更新履歴  
-
-  ・2009/07/12 Version 0.0.1 リリース
-  ・2016/04/03 Githubにリポジトリを移行
-  ・2020/01/06 更新再開
+- 2020/01/06 更新再開
+- 2016/04/03 Githubにリポジトリを移行
+- 2009/07/12 Version 0.0.1 リリース
